@@ -1,0 +1,35 @@
+*{
+}
+
+.A {
+    text-align: center;
+    margin-top: 100px;
+}
+.B{
+    padding-top: 15px;
+    text-align: center;
+    
+}
+.C{
+    text-align: center;
+    padding-top: 15px;
+    
+}
+.D{
+    text-align: center;
+    padding-top: 10px;
+}
+.F {
+    text-align: right;
+    background-color: rgb(213, 219, 215);
+    padding-right: 20px;
+}
+.K {
+  background-color: rgb(213, 219, 215);
+  margin-top: 20%;
+}
+.G {
+   text-align: right;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
